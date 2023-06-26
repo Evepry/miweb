@@ -48,6 +48,8 @@ print("hello world")
 |---|----|---|
 |dato   |1  |jajaja |
 |dato   |2  |jejeje |
+|dato   |1  |jajaja |
+|dato   |2  |jejeje |
 
 ![Visual sturio code logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg "vscode logo")
 
@@ -57,3 +59,6 @@ print("hello world")
 * [ ] tarea 1
 * [x] tarea 1
 
+@evepry
+
+:wink:
