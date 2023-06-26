@@ -37,7 +37,7 @@ citas
 ---
 ___
 
-`console.log('hello world')`
+`console.log(`hello world`)`
 
 ```python
 print("hello world")
