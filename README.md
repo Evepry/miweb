@@ -35,8 +35,9 @@ citas
 >esto es una cita
 
 ---
-
 ___
+
+`console.log('hello world')`
 
 ```python
 print("hello world")
