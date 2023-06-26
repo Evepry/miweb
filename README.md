@@ -37,9 +37,23 @@ citas
 ---
 ___
 
-`console.log(`hello world`)`
+`console.log("hello world")`
+
 
 ```python
 print("hello world")
 ```
+
+|Tabla  | are   |cool   |
+|---|----|---|
+|dato   |1  |jajaja |
+|dato   |2  |jejeje |
+
+![Visual sturio code logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg "vscode logo")
+
+* [x] tarea 1
+* [ ] tarea 1
+* [x] tarea 1
+* [ ] tarea 1
+* [x] tarea 1
 
